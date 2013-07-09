@@ -5,7 +5,9 @@ gem 'rails', '3.0.7'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
+gem 'ruby-mysql'
 gem 'mysql2'
+gem 'activerecord-mysql2-adapter'
 
 # Use unicorn as the web server
 # gem 'unicorn'
